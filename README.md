@@ -1,9 +1,9 @@
 # 4DOF SCARA Robot for Automated Object Sorting
 *A graduation project combining robotics, machine vision, and embedded systems.*
 
-| ![SCARA Design](images/Frames%20of%20Robot%20Arm.png) | ![Base Specs](images/RobotSimulation.png) |
+| ![SCARA Design](images/Frames%20of%20Robot%20Arm.png) | ![Matlab simulation](images/RobotSimulation.png) |
 |:--------------------------------------------------:|:-----------------------------------------------:|
-| *Figure 2.11: SCARA Design*                         | *Figure 2.12: Base Specifications*              |
+| *Figure 2.11: SCARA Design*                         | *Figure 2.12: Matlab simulation*              |
 
 ## 📌 Project Overview
 - **Goal**: Design a 4DOF SCARA robot to sort objects by color/shape using machine vision.
