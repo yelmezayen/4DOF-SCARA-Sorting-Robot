@@ -3,7 +3,7 @@
 | ![SCARA Design](images/DesignedRobot.png)  
 *Figure 2.11: SCARA Design*  
 
-| ![SCARA Design](images/) | ![Matlab simulation](images/RobotSimulation.png) |
+| ![SCARA Design](images/StressAnalysis.png) | ![Matlab simulation](images/RobotSimulation.png) |
 |:--------------------------------------------------:|:-----------------------------------------------:|
 | *Figure 2.11: SCARA Design*                         | *Figure 2.12: Matlab simulation*              |
 
