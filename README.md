@@ -9,7 +9,7 @@
 
 GUI Implemented using MegunoLink to send/recieve data using USB serial communication with Arduino:
 | ![GUI Design](images/GUI_Interface.png)
-| *Figure: MegunoLink
+| *Figure: MegunoLink*
 
 
 
