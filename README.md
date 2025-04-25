@@ -12,6 +12,8 @@ GUI Implemented using MegunoLink to send/recieve data using USB serial communica
   ![GUI Design](images/GUI_Interface.png)
   *Figure: MegunoLink*
 
+The control application for the 4DOF SCARA robot features a user-friendly GUI divided into three functional sections,
+(Forward Kinematics, Inverse Kinematics, Gripper Controller) each designed to simplify robot operation and enhance user interaction.
 
 
 ## 📌 Project Overview
