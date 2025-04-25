@@ -37,7 +37,6 @@ The control application for the 4DOF SCARA robot features a user-friendly GUI di
 ## 🎯 Technical Highlights
 ### Kinematics & Control
 - **DH Parameters**:  
-  ![DH Table](Documentation/Extracted_Figures/Table_4.1.png)  
   ```matlab
   % MATLAB Forward Kinematics Code (From Report)
   L(1) = Link([0 35.8 0 pi 0], 'standard');
