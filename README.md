@@ -1,5 +1,6 @@
 # 4DOF SCARA Robot for Automated Object Sorting
 *A graduation project combining robotics, machine vision, and embedded systems.*  
+
 | ![SCARA Design](images/DesignedRobot.png)  
 *Figure 2.11: SCARA Design*  
 
